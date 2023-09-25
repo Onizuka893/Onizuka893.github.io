@@ -4,7 +4,7 @@ const config = {
   github: {
     username: 'onizuka893', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 5, // How many projects to display.
+    limit: 6, // How many projects to display.
     exclude: {
       forks: true, // Forked projects will not be displayed if set to true.
       projects: ['Extra-oefening-arrays', 'YoutubeApiTestMAUIBlazor'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
@@ -51,13 +51,13 @@ const config = {
   ],
   certifications: [
     {
-      name: 'Foundational C#',
+      name: 'Foundational C# - Click to verify',
       body: 'Microsoft',
       year: 'September 2023',
       link: 'https://www.freecodecamp.org/certification/fcc878425e7-684f-404b-bc8d-114065c6d742/foundational-c-sharp-with-microsoft'
     },
     {
-      name: 'C#',
+      name: 'C# - Click to verify',
       body: 'HackerRank',
       year: 'September 2023',
       link: 'https://www.hackerrank.com/certificates/8bdf24d8ca35'
